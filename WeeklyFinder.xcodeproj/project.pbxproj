@@ -12,6 +12,7 @@
 		232BCB532858CEC800CA224F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 232BCB522858CEC800CA224F /* Assets.xcassets */; };
 		232BCB562858CEC800CA224F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 232BCB542858CEC800CA224F /* LaunchScreen.storyboard */; };
 		232BCB5E2858CFDC00CA224F /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232BCB5D2858CFDC00CA224F /* MainViewController.swift */; };
+		232BCB602858F81300CA224F /* shakingAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 232BCB5F2858F81300CA224F /* shakingAnimation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		232BCB552858CEC800CA224F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		232BCB572858CEC800CA224F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		232BCB5D2858CFDC00CA224F /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		232BCB5F2858F81300CA224F /* shakingAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shakingAnimation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				232BCB5D2858CFDC00CA224F /* MainViewController.swift */,
+				232BCB5F2858F81300CA224F /* shakingAnimation.swift */,
 				232BCB492858CEC200CA224F /* AppDelegate.swift */,
 				232BCB4B2858CEC200CA224F /* SceneDelegate.swift */,
 				232BCB522858CEC800CA224F /* Assets.xcassets */,
@@ -136,6 +139,7 @@
 			files = (
 				232BCB5E2858CFDC00CA224F /* MainViewController.swift in Sources */,
 				232BCB4A2858CEC200CA224F /* AppDelegate.swift in Sources */,
+				232BCB602858F81300CA224F /* shakingAnimation.swift in Sources */,
 				232BCB4C2858CEC200CA224F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
