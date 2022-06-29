@@ -11,5 +11,4 @@ This project is created to improve my skills or to maintain my basic swift skill
 Project is created with:
 * Swift
 * UIKit
-* StoryBoard
 * Calendar
